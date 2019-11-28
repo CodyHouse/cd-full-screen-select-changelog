@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Full-Screen Select - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Full-Screen Select component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/full-screen-select)
+- [Info Page](https://codyhouse.co/ds/components/info/full-screen-select)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
